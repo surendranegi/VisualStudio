@@ -16,6 +16,7 @@ namespace WebApplication2
     {
         public Startup(IConfiguration configuration)
         {
+            //Changes Surendra Negi
             Configuration = configuration;
         }
 
